@@ -1,0 +1,22 @@
+{
+  "name": "jquery.matchwindow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.matchWindow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindgruve/jquery.matchWindow.git"
+  },
+  "author": {
+    "name": "Abishai Gray",
+    "email": "agray@abishaigray.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindgruve/jquery.matchWindow/issues"
+  },
+  "homepage": "https://github.com/mindgruve/jquery.matchWindow#readme"
+}
